@@ -112,4 +112,4 @@ def main():
     print("Accuracy: "+repr(accuracy)+"%")
 
 main()
-#lear more link to http://www.yangzhihuiweb.com
+#learn more link to http://www.yangzhihuiweb.com
